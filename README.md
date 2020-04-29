@@ -38,6 +38,7 @@ ou des sources que l'on peut retrouver dans la littérature, par exemple dans :
 ● A. Kirilin and M. Strube. Exploiting a speaker’s credibility to detect fake news. ​ DSJM ​ , 2018.
 
 3. Classification et sélection de variables
+
 Nous allons nous intéresser à deux tâches de classification :
 1. {VRAI} vs. {FAUX}
 2. {VRAI et FAUX} vs. {MIXTURE}
